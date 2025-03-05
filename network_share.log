@@ -1,0 +1,10 @@
+2025-03-05 13:54:37,435 - NetworkShare - ERROR - Error setting up network share: [Errno 1] Operation not permitted: '/home/pyworld/crypto_share'
+2025-03-05 13:54:37,435 - NetworkShare - INFO - Copied crypto_data.ods to /home/pyworld/crypto_share/crypto_data.ods
+2025-03-05 13:59:38,455 - NetworkShare - ERROR - Error setting up network share: [Errno 1] Operation not permitted: '/home/pyworld/crypto_share'
+2025-03-05 13:59:38,455 - NetworkShare - INFO - Copied crypto_data.ods to /home/pyworld/crypto_share/crypto_data.ods
+2025-03-05 14:04:39,556 - NetworkShare - ERROR - Error setting up network share: [Errno 1] Operation not permitted: '/home/pyworld/crypto_share'
+2025-03-05 14:04:39,556 - NetworkShare - INFO - Copied crypto_data.ods to /home/pyworld/crypto_share/crypto_data.ods
+2025-03-05 14:09:40,874 - NetworkShare - ERROR - Error setting up network share: [Errno 1] Operation not permitted: '/home/pyworld/crypto_share'
+2025-03-05 14:09:40,874 - NetworkShare - INFO - Copied crypto_data.ods to /home/pyworld/crypto_share/crypto_data.ods
+2025-03-05 14:14:41,884 - NetworkShare - ERROR - Error setting up network share: [Errno 1] Operation not permitted: '/home/pyworld/crypto_share'
+2025-03-05 14:14:41,884 - NetworkShare - INFO - Copied crypto_data.ods to /home/pyworld/crypto_share/crypto_data.ods
